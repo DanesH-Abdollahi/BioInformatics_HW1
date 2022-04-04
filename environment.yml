@@ -1,0 +1,4 @@
+name: Bio
+dependencies:
+  - numpy
+  - pandas
