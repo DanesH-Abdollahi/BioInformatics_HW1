@@ -7,7 +7,7 @@ Input Format :
 >sequence2
 ```
 Output Format :
-```
+``` python
 Alignment Score : int
 Alignment :
     sequence1
