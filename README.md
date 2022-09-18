@@ -1,6 +1,6 @@
 # Semi-Global alignment
 
-#### Some Examples :
+### Some Examples :
 Input Format :
 ```
 >sequence1
